@@ -1,10 +1,4 @@
 
-
-### Links
-
-- Solution URL: (https://github.com/Jorahhh/Social-proof-section)
-- Live Site URL: (https://jorahhh.github.io/Social-proof-section/)
-
 ## My process
 
 1) Started with mobile screen version on the file index.html.
